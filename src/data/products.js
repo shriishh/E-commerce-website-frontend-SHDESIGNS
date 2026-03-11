@@ -1,0 +1,53 @@
+export const products = [
+    {
+        id: 1,
+        name: 'Essential Oversized Tee',
+        category: 'T-Shirts',
+        price: 999.00,
+        image: '/tshirt_1.png',
+        colors: ['#000000', '#ffffff', '#e5e5e5'],
+        badge: 'New',
+    },
+    {
+        id: 2,
+        name: 'Premium Everyday Hoodie',
+        category: 'Hoodies',
+        price: 1499.00,
+        image: '/hoodie_1.png',
+        colors: ['#d2b48c', '#556b2f', '#000000'],
+        badge: 'Bestseller',
+    },
+    {
+        id: 3,
+        name: 'Sage Pullover Hoodie',
+        category: 'Hoodies',
+        price: 1599.00,
+        image: '/hoodie_2.png',
+        colors: ['#556b2f', '#ffffff', '#000000'],
+    },
+    {
+        id: 4,
+        name: 'Classic Zip-Up Hoodie',
+        category: 'Hoodies',
+        price: 1399.00,
+        image: '/hoodie_3.png',
+        colors: ['#000000', '#e5e5e5'],
+    },
+    {
+        id: 5,
+        name: 'Premium White Tee',
+        category: 'T-Shirts',
+        price: 899.00,
+        image: '/tshirt_2.png',
+        colors: ['#ffffff'],
+    },
+    {
+        id: 6,
+        name: 'Vintage Wash Graphic Tee',
+        category: 'T-Shirts',
+        price: 1199.00,
+        image: '/tshirt_3.png',
+        colors: ['#4a4a4a', '#000000'],
+        badge: 'Limited',
+    }
+];
